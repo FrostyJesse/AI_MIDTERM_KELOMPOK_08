@@ -1,0 +1,29 @@
+{
+    "Standard DQN": {
+        "training_episodes": 1839,
+        "final_avg_reward": -40.17573547363281,
+        "evaluation": {
+            "avg_reward": -34.442694469599054,
+            "std_reward": 7.016379555387027,
+            "success_rate": 0.0
+        }
+    },
+    "Double DQN": {
+        "training_episodes": 2010,
+        "final_avg_reward": -40.028011322021484,
+        "evaluation": {
+            "avg_reward": -47.54879663253317,
+            "std_reward": 7.426482404266483,
+            "success_rate": 0.0
+        }
+    },
+    "Dueling DQN": {
+        "training_episodes": 2014,
+        "final_avg_reward": -42.895633697509766,
+        "evaluation": {
+            "avg_reward": -51.16545574983363,
+            "std_reward": 0.5471524893213809,
+            "success_rate": 0.0
+        }
+    }
+}
